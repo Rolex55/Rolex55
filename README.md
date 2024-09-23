@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in St. Petersburg
 * ✉️  You can contact me at [ralina.salikhova48@gmail.com](mailto:ralina.salikhova48@gmail.com)
-* 🧠  I'm learning React JS
+* 🧠  I'm learning frontend development
 * 🤝  I'm open to collaborating on projects that need the implementation of visually appealing and interactive web design
 
 ### Skills
